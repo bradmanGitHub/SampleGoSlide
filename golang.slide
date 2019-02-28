@@ -32,5 +32,4 @@ somchais@gmail.com
 .code sampleFile.txt /BEGIN Pragraph3/,/END Pragraph3/
 
 * แสดงข้อความธรรมดา
-ใน block ของ loop เราสามารถหยุดการทำงานได้ทันทีด้วย break หรือข้ามส่วนที่เหลือให้ไปรับถัดไปทันทีด้วย continue ถ้าเป็น loop 
-ที่ซ้อนกันเราสามารถใช้ label เพื่อ break หรือ continue ไปใน loop ชั้นบนกว่าได้
+ใน block ของ loop เราสามารถหยุดการทำงานได้ทันทีด้วย break หรือข้ามส่วนที่เหลือให้ไปรับถัดไปทันทีด้วย continue ถ้าเป็น loop ที่ซ้อนกันเราสามารถใช้ label เพื่อ break หรือ continue ไปใน loop ชั้นบนกว่าได้
